@@ -24,7 +24,7 @@ I am Hiep, an aspiring data scientist with a passion for machine learning and a 
 
 
 ## Projects
-- [Credit Risk Analysis](https://github.com/username/credit-risk-analysis) - Utilized Logistic Regression models to classify good and bad loans using pooled and hierarchical methods. Achieved an accuracy of 71.9%.
+- [Credit Risk Analysis](https://github.com/hiepnguyen1005/Credit-Risk-Analysis) - Utilized Logistic Regression models to classify good and bad loans using pooled and hierarchical methods. Achieved an accuracy of 71.9%.
 - [Predicting Football Results](https://github.com/username/predicting-football-results) - Built a model to predict Premier League football match results using Decision Tree and Logistic Regression
 
 
