@@ -1,7 +1,8 @@
-<div>
+<div style="text-align: center;">
   <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200px' style='display: inline-block; vertical-align: middle;'>
-  <h3 style='display: inline-block; vertical-align: middle; margin-left: 10px;'> Hi there! I'm Hiep Nguyen</h3> <h3 
+  <h3 style='display: inline-block; vertical-align: middle; margin-left: 10px;'> Hi there! I'm Hiep Nguyen</h3>
 </div>
+
 
 
  <!-- About section -->
