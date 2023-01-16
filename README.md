@@ -10,7 +10,7 @@
 ---
 # About me
 
-I am Hiep, an aspiring data scientist with a passion for machine learning and a strong foundation in statistics and programming. I am currently pursuing a bachelor degree in data science and looking to gain industry experience through internships and real-world projects.
+My name is Hiep, an aspiring data scientist with a passion for machine learning and a strong foundation in statistics and programming. I am currently pursuing a bachelor degree in data science and looking to gain industry experience through internships and real-world projects.
 
 ## Education
 - Bachelor of Science in Data Science, Aalto University University (Expected graduation: 2024)
